@@ -2,7 +2,7 @@
 
 **Learning Objective:** 
 - Distinguish between encoders, decoders, Seq2Seq, and multi-modal models and define use cases for each
-- Define common NLP Pipeline (consider intro-ing Pipeline API)
+- Define common NLP Pipeline
 - Explain the framework for selecting a pre-trained model
 - Construct pipeline for NLP Scenario 1 using transformer architecture
 
