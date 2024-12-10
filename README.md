@@ -1,18 +1,21 @@
 ## ![[NLP and LLMs ] Transformers](./assets/hero.png)
 
-**Learning Objective:** 
-- Distinguish between encoders, decoders, Seq2Seq, and multi-modal models and define use cases for each
-- Define common NLP Pipeline
-- Explain the framework for selecting a pre-trained model
-- Construct pipeline for NLP Scenario 1 using transformer architecture
-
+**Learning Objectives:** 
+1. Explain how probabilistic language models generate text 
+2. Describe transformer architecture: encoders, decoders, and encoder-decoders 
+3. Evaluate which architecture to use for common NLP business applications 
+4. Define NLP Pipeline and Hugging Face pipeline API
+5. Explain the framework for selecting a pre-trained model
+6. Construct pipeline for sentiment analysis using encoder models and compare performance across models 
 
 **Format:** Github and deck   
 
 **About:** Transformer architecture has enabled AI tools such as ChatGPT, Google Search, and Google Translate. In this module we will dive how the transformer architecture works and apply select models from the transformer family to solve a real-world problem. 
 
 **Prerequisites:** 
-tktk
+- Python 
+- Core data science libraries Numpy and Pandas 
+- Understand, run, and evaluate classification metrics in Scikit Learn 
 
 
 
@@ -21,9 +24,8 @@ tktk
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
 | [Intro to Transformers ](https://docs.google.com/presentation/d/1ZE5RlVW11w3W7SHiJzG4aFwlX8WBPx-sJglYHgjcVtA/edit?usp=sharing) | 40 | Intro to LLMs and transformers  |
-|  [LLM Pipeline]() | tktk | code-a-long |
-|  [Lab]() | tktk | Build a pipeline using a transformer (e.g, BERT)|
- -- 
+|  [Pipelines](https://docs.google.com/presentation/d/12EumnpHz2LoQ-KiM2mQv49IAN4IIan2DR8sI0sR_snM/edit?usp=sharing) | 60 | A deck wtih intro to Hugging Face pipelines and time includes Sentiment analysis activity below |
+|  [Encoder Sentiment Anysis]() | 40 | Construct pipeline for sentiment analysis using encoder models and compare performance across models  |
 | **Total content**     | 120 |    |
 
 ## References
