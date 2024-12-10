@@ -23,8 +23,8 @@
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
 | [Intro to Transformers ](https://docs.google.com/presentation/d/1ZE5RlVW11w3W7SHiJzG4aFwlX8WBPx-sJglYHgjcVtA/edit?usp=sharing) | 60 | Intro to LLMs and transformers  |
-|  [Encoder-NER ]() | 30 | Jupyter notebook with encoder example on NER task |
-|  [Encoder-Decoder-Summarization]() |30 | Jupyter notebook with encoder-decoder example on summarization task   |
+|  [Encoder-NER ](https://git.generalassemb.ly/Modularisation-DSB-sandbox/Transformers/blob/master/encoders-NER.ipynb) | 30 | Jupyter notebook with encoder example on NER task |
+|  [Encoder-Decoder-Summarization]() |30 | WIP Jupyter notebook with encoder-decoder example on summarization task   |
 | **Total content**     | 120 |    |
 
 ## References
