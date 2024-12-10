@@ -4,9 +4,8 @@
 1. Explain how probabilistic language models generate text 
 2. Describe transformer architecture: encoders, decoders, and encoder-decoders 
 3. Evaluate which architecture to use for common NLP business applications 
-4. Define NLP Pipeline and Hugging Face pipeline API
-5. Explain the framework for selecting a pre-trained model
-6. Construct pipeline for sentiment analysis using encoder models and compare performance across models 
+4. Apply enocoder architecture to Named Entity Recognition (NER) task
+5. Apply enocoder-decoder (seq2seq) architecture to summarization task
 
 **Format:** Github and deck   
 
@@ -23,9 +22,9 @@
 
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
-| [Intro to Transformers ](https://docs.google.com/presentation/d/1ZE5RlVW11w3W7SHiJzG4aFwlX8WBPx-sJglYHgjcVtA/edit?usp=sharing) | 40 | Intro to LLMs and transformers  |
-|  [Pipelines](https://docs.google.com/presentation/d/12EumnpHz2LoQ-KiM2mQv49IAN4IIan2DR8sI0sR_snM/edit?usp=sharing) | 60 | A deck wtih intro to Hugging Face pipelines. Time includes Sentiment analysis activity below |
-|  [Encoder Sentiment Analysis](https://git.generalassemb.ly/Modularisation-DSB-sandbox/Transformers/blob/master/encoder-sentiment-pipeline.ipynb) | 40 | Construct pipeline for sentiment analysis using encoder models and compare performance across models  |
+| [Intro to Transformers ](https://docs.google.com/presentation/d/1ZE5RlVW11w3W7SHiJzG4aFwlX8WBPx-sJglYHgjcVtA/edit?usp=sharing) | 60 | Intro to LLMs and transformers  |
+|  [Encoder-NER ]() | 30 | Jupyter notebook with encoder example on NER task |
+|  [Encoder-Decoder-Summarization]() |30 | Jupyter notebook with encoder-decoder example on summarization task   |
 | **Total content**     | 120 |    |
 
 ## References
