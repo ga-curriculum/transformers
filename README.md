@@ -25,7 +25,7 @@
 | ------ |:----------:| ------ |
 | [Intro to Transformers ](https://docs.google.com/presentation/d/1ZE5RlVW11w3W7SHiJzG4aFwlX8WBPx-sJglYHgjcVtA/edit?usp=sharing) | 40 | Intro to LLMs and transformers  |
 |  [Pipelines](https://docs.google.com/presentation/d/12EumnpHz2LoQ-KiM2mQv49IAN4IIan2DR8sI0sR_snM/edit?usp=sharing) | 60 | A deck wtih intro to Hugging Face pipelines and time includes Sentiment analysis activity below |
-|  [Encoder Sentiment Anysis]() | 40 | Construct pipeline for sentiment analysis using encoder models and compare performance across models  |
+|  [Encoder Sentiment Analysis](https://git.generalassemb.ly/Modularisation-DSB-sandbox/Transformers/blob/master/encoder-sentiment-pipeline.ipynb) | 40 | Construct pipeline for sentiment analysis using encoder models and compare performance across models  |
 | **Total content**     | 120 |    |
 
 ## References
