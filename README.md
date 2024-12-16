@@ -5,9 +5,10 @@
 2. Describe transformer architecture: encoders, decoders, and encoder-decoders 
 3. Evaluate which architecture to use for common NLP business applications 
 4. Apply enocoder architecture to Named Entity Recognition (NER) task
-5. Apply enocoder-decoder (seq2seq) architecture to summarization task
+5. Apply decoder architecture to text generation task 
+6. Apply enocoder-decoder (seq2seq) architecture to translation and summarization task
 
-**Format:** Github and deck   
+**Format:** Github and slides  
 
 **About:** Transformer architecture has enabled AI tools such as ChatGPT, Google Search, and Google Translate. In this module we will dive how the transformer architecture works and apply select models from the transformer family to solve a real-world problem. 
 
@@ -23,8 +24,9 @@
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
 | [Intro to Transformers ](https://docs.google.com/presentation/d/1ZE5RlVW11w3W7SHiJzG4aFwlX8WBPx-sJglYHgjcVtA/edit?usp=sharing) | 60 | Intro to LLMs and transformers  |
-|  [Encoder-NER ](https://git.generalassemb.ly/Modularisation-DSB-sandbox/Transformers/blob/master/encoders-NER.ipynb) | 30 | Jupyter notebook with encoder example on NER task |
-|  [Encoder-Decoder-Summarization]() |30 | WIP Jupyter notebook with encoder-decoder example on summarization task   |
+|  [Encoder-NER ](https://git.generalassemb.ly/Modularisation-DSB-sandbox/Transformers/blob/master/encoders-NER.ipynb) | 20 | Jupyter notebook with encoder example on NER task |
+|  [decoders-generation]() |20 | Jupyter notebook that explores text generation  |
+|  [seq2seq-translation-summarization]() |20 | Jupyter notebook that explores translations and summarization  |
 | **Total content**     | 120 |    |
 
 ## References
