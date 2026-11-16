@@ -24,7 +24,7 @@
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
 | [Intro to Transformers ](https://docs.google.com/presentation/d/1ZE5RlVW11w3W7SHiJzG4aFwlX8WBPx-sJglYHgjcVtA/edit?usp=sharing) | 60 | Intro to LLMs and transformers  |
-|  [Encoder-NER ](https://git.generalassemb.ly/Modularisation-DSB-sandbox/Transformers/blob/master/encoders-NER.ipynb) | 20 | Jupyter notebook with encoder example on NER task |
+|  [Encoder-NER ](./encoders-NER.ipynb) | 20 | Jupyter notebook with encoder example on NER task |
 |  [decoders-generation]() |20 | Jupyter notebook that explores text generation  |
 |  [seq2seq-translation-summarization]() |20 | Jupyter notebook that explores translations and summarization  |
 | **Total content**     | 120 |    |
@@ -43,7 +43,7 @@
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
 
 
 
